@@ -25,3 +25,19 @@ python-basics-practice/
 ├── README.md
 └── LICENSE
 
+🛠️ Tools Used
+- Python 3.x
+- Jupyter Notebook (optional)
+
+🚀 How to Run
+1. Clone the repository:
+   git clone https://github.com/veranhemakinya-4019/python-basics-practice.git
+2. Navigate to the folder:
+   cd python-basics-practice
+3. Run a script:
+   python loops.py
+
+🎯 What I Learned
+- Using loops effectively
+- Working with lists
+- Writing simple and reusable functions
