@@ -1,43 +1,45 @@
-# 🐍 Python Basics Practice
+## 👋 Hi, I'm Vera Nhema Kinya
 
-A beginner-friendly collection of Python scripts focused on core programming concepts such as **loops**, **lists**, and **functions**.
-
----
-
-## 📌 Project Overview
-
-This repository contains simple Python examples created to practice and understand fundamental Python concepts.  
-It is ideal for:
-- Python beginners
-- Students learning programming basics
-- Anyone revising core Python syntax
+🎓 BSc. Applied Statistics with IT | Kenya 🇰🇪  
+📊 Data Analyst | Python • SQL • Excel • Data Visualization  
+💼 Passionate about turning data into actionable insights and building strong analytical foundations.
 
 ---
 
-## 📂 Project Structure
+### 🔧 Skills & Tools
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, Excel  
+- **Visualization:** Matplotlib, Seaborn, Excel charts  
+- **Other Tools:** Git, GitHub, Jupyter Notebook  
 
-```text
-python-basics-practice/
-│
-├── loops.py        # Examples using for-loops and while-loops
-├── lists.py        # List operations and manipulations
-├── functions.py   # Defining and using functions
-├── README.md
-└── LICENSE
+---
 
-🛠️ Tools Used
-- Python 3.x
-- Jupyter Notebook (optional)
+### 📌 Key Projects
+- **Python Basics Practice**  
+  Beginner-friendly Python scripts covering loops, functions, lists, dictionaries, and conditional statements.  
+  *Focus:* Learning and teaching core Python concepts.
 
-🚀 How to Run
-1. Clone the repository:
-   git clone https://github.com/veranhemakinya-4019/python-basics-practice.git
-2. Navigate to the folder:
-   cd python-basics-practice
-3. Run a script:
-   python loops.py
+- **Python Data Analysis Projects**  
+  Hands-on data cleaning, exploration, and visualization using real datasets.  
+  *Focus:* Turning raw data into insights.
 
-🎯 What I Learned
-- Using loops effectively
-- Working with lists
-- Writing simple and reusable functions
+- **Statistics for Data Analysis**  
+  Applying statistical methods to solve real-world data problems.  
+  *Focus:* Linking theory to practice in data-driven decision-making.
+
+---
+
+### 🌱 Currently Learning
+- Advanced Pandas & data cleaning techniques  
+- SQL for data analysis  
+- Exploratory Data Analysis (EDA) & storytelling with data
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: **veranhemakinya@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/vera-data-analyst](https://linkedin.com/in/vera-data-analyst)  
+- 💬 Telegram: [https://t.me/vera_Data_analyst](https://t.me/vera_Data_analyst)  
+- 🐦 X (Twitter): **@veranhema**
+
+⭐ *This GitHub documents my learning journey and showcases practical projects for data analysis.*
