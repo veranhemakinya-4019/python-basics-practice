@@ -23,6 +23,7 @@ The focus is on writing clear, readable, and well-documented Python code while p
 - `README.md` — Project overview and documentation
 - `LICENSE` — MIT License
 
+
 ---
 
 ## 🎯 Learning Objectives
