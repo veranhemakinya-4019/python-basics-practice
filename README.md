@@ -1,45 +1,37 @@
-## 👋 Hi, I'm Vera Nhema Kinya
+# 🐍 Python Basics Practice
 
-🎓 BSc. Applied Statistics with IT | Kenya 🇰🇪  
-📊 Data Analyst | Python • SQL • Excel • Data Visualization  
-💼 Passionate about turning data into actionable insights and building strong analytical foundations.
+## 📌 Project Overview
+This repository contains beginner-friendly Python scripts designed to strengthen core programming fundamentals commonly used in data analysis and software development.
 
----
-
-### 🔧 Skills & Tools
-- **Programming:** Python, SQL  
-- **Data Analysis:** Pandas, NumPy, Excel  
-- **Visualization:** Matplotlib, Seaborn, Excel charts  
-- **Other Tools:** Git, GitHub, Jupyter Notebook  
+The focus is on writing clear, readable, and well-documented Python code while practicing essential concepts.
 
 ---
 
-### 📌 Key Projects
-- **Python Basics Practice**  
-  Beginner-friendly Python scripts covering loops, functions, lists, dictionaries, and conditional statements.  
-  *Focus:* Learning and teaching core Python concepts.
-
-- **Python Data Analysis Projects**  
-  Hands-on data cleaning, exploration, and visualization using real datasets.  
-  *Focus:* Turning raw data into insights.
-
-- **Statistics for Data Analysis**  
-  Applying statistical methods to solve real-world data problems.  
-  *Focus:* Linking theory to practice in data-driven decision-making.
+## 🧠 Concepts Covered
+- Variables and data types
+- Conditional statements
+- Loops
+- Functions
+- Lists
+- Dictionaries
+- String operations
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Pandas & data cleaning techniques  
-- SQL for data analysis  
-- Exploratory Data Analysis (EDA) & storytelling with data
+## 📂 Project Structure
+- `exercises/` — Practice scripts covering individual Python concepts
+- `README.md` — Project overview and documentation
+- `LICENSE` — MIT License
 
 ---
 
-### 📫 Connect with Me
-- 📧 Email: **veranhemakinya@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/vera-data-analyst](https://linkedin.com/in/vera-data-analyst)  
-- 💬 Telegram: [https://t.me/vera_Data_analyst](https://t.me/vera_Data_analyst)  
-- 🐦 X (Twitter): **@veranhema**
+## 🎯 Learning Objectives
+- Build a strong foundation in Python programming
+- Understand how core Python concepts apply to data analysis
+- Practice writing clean, readable, and well-commented code
+- Prepare for more advanced data analysis and automation tasks
 
-⭐ *This GitHub documents my learning journey and showcases practical projects for data analysis.*
+---
+
+## 🚀 Outcome
+This project demonstrates solid Python fundamentals suitable for entry-level data analysis roles and serves as a foundation for more advanced analytical and data-focused projects.
